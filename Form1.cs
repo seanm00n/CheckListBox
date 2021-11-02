@@ -157,9 +157,6 @@ namespace CheckListBox {
             checkBox20.Checked = false;
             checkBox21.Checked = false;
             checkBox22.Checked = false;
-        }
-
-        private void button3_Click(object sender, EventArgs e) {
             checkBox23.Checked = false;
             checkBox24.Checked = false;
             checkBox25.Checked = false;
