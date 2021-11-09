@@ -62,6 +62,18 @@ namespace CheckListBox {
         bool cbx49 = Properties.Settings.Default.checkbox49;
         bool cbx50 = Properties.Settings.Default.checkbox50;
         bool cbx51 = Properties.Settings.Default.checkbox51;
+        bool cbx52 = Properties.Settings.Default.checkbox52;
+        bool cbx53 = Properties.Settings.Default.checkbox53;
+        bool cbx54 = Properties.Settings.Default.checkbox54;
+        bool cbx55 = Properties.Settings.Default.checkbox55;
+        bool cbx56 = Properties.Settings.Default.checkbox56;
+        bool cbx57 = Properties.Settings.Default.checkbox57;
+        bool cbx58 = Properties.Settings.Default.checkbox58;
+        bool cbx59 = Properties.Settings.Default.checkbox59;
+        bool cbx60 = Properties.Settings.Default.checkbox60;
+        bool cbx61 = Properties.Settings.Default.checkbox61;
+        bool cbx62 = Properties.Settings.Default.checkbox62;
+        bool cbx63 = Properties.Settings.Default.checkbox63;
 
         //Settings.settings에 있는 textbox01... 들의 string값 변수로 저장
         string tbx01 = Properties.Settings.Default.textbox01;
@@ -124,6 +136,18 @@ namespace CheckListBox {
             checkBox49.Checked = cbx49;
             checkBox50.Checked = cbx50;
             checkBox51.Checked = cbx51;
+            checkBox52.Checked = cbx52;
+            checkBox53.Checked = cbx53;
+            checkBox54.Checked = cbx54;
+            checkBox55.Checked = cbx55;
+            checkBox56.Checked = cbx56;
+            checkBox57.Checked = cbx57;
+            checkBox58.Checked = cbx58;
+            checkBox59.Checked = cbx59;
+            checkBox60.Checked = cbx60;
+            checkBox61.Checked = cbx61;
+            checkBox62.Checked = cbx62;
+            checkBox63.Checked = cbx63;
 
 
             //Settings.settings에 저장된 textbox01... 들의 string값 가져오기
@@ -144,9 +168,6 @@ namespace CheckListBox {
             checkBox10.Checked = false;
             checkBox11.Checked = false;
             checkBox12.Checked = false;
-        }
-
-        private void button2_Click(object sender, EventArgs e) {
             checkBox13.Checked = false;
             checkBox14.Checked = false;
             checkBox15.Checked = false;
@@ -162,6 +183,9 @@ namespace CheckListBox {
             checkBox25.Checked = false;
             checkBox26.Checked = false;
             checkBox27.Checked = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e) {
             checkBox28.Checked = false;
             checkBox29.Checked = false;
             checkBox30.Checked = false;
@@ -186,6 +210,18 @@ namespace CheckListBox {
             checkBox49.Checked = false;
             checkBox50.Checked = false;
             checkBox51.Checked = false;
+            checkBox52.Checked = false;
+            checkBox53.Checked = false;
+            checkBox54.Checked = false;
+            checkBox55.Checked = false;
+            checkBox56.Checked = false;
+            checkBox57.Checked = false;
+            checkBox58.Checked = false;
+            checkBox59.Checked = false;
+            checkBox60.Checked = false;
+            checkBox61.Checked = false;
+            checkBox62.Checked = false;
+            checkBox63.Checked = false;
         }
         private void checkBox1_CheckedChanged(object sender, EventArgs e) {
             cbx01 = checkBox1.Checked;
@@ -440,6 +476,66 @@ namespace CheckListBox {
         private void checkBox51_CheckedChanged(object sender, EventArgs e) {
             cbx51 = checkBox51.Checked;
             Properties.Settings.Default.checkbox51 = cbx51;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox52_CheckedChanged(object sender, EventArgs e) {
+            cbx52 = checkBox52.Checked;
+            Properties.Settings.Default.checkbox52 = cbx52;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox53_CheckedChanged(object sender, EventArgs e) {
+            cbx53 = checkBox53.Checked;
+            Properties.Settings.Default.checkbox53 = cbx53;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox54_CheckedChanged(object sender, EventArgs e) {
+            cbx54 = checkBox54.Checked;
+            Properties.Settings.Default.checkbox54 = cbx54;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox55_CheckedChanged(object sender, EventArgs e) {
+            cbx55 = checkBox55.Checked;
+            Properties.Settings.Default.checkbox55 = cbx55;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox56_CheckedChanged(object sender, EventArgs e) {
+            cbx56 = checkBox56.Checked;
+            Properties.Settings.Default.checkbox56 = cbx56;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox57_CheckedChanged(object sender, EventArgs e) {
+            cbx57 = checkBox57.Checked;
+            Properties.Settings.Default.checkbox57 = cbx57;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox58_CheckedChanged(object sender, EventArgs e) {
+            cbx58 = checkBox56.Checked;
+            Properties.Settings.Default.checkbox58 = cbx58;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox59_CheckedChanged(object sender, EventArgs e) {
+            cbx59 = checkBox59.Checked;
+            Properties.Settings.Default.checkbox59 = cbx59;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox60_CheckedChanged(object sender, EventArgs e) {
+            cbx60 = checkBox60.Checked;
+            Properties.Settings.Default.checkbox60 = cbx60;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox61_CheckedChanged(object sender, EventArgs e) {
+            cbx61 = checkBox61.Checked;
+            Properties.Settings.Default.checkbox61 = cbx61;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox62_CheckedChanged(object sender, EventArgs e) {
+            cbx62 = checkBox62.Checked;
+            Properties.Settings.Default.checkbox62 = cbx62;
+            Properties.Settings.Default.Save();
+        }
+        private void checkBox63_CheckedChanged(object sender, EventArgs e) {
+            cbx63 = checkBox63.Checked;
+            Properties.Settings.Default.checkbox63 = cbx63;
             Properties.Settings.Default.Save();
         }
 
