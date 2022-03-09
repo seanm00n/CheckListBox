@@ -1,0 +1,12 @@
+*.csproj
+obj*
+bin*
+Properties/Settings.settings
+CheckListBox.csproj.user
+CheckListBox.sln
+Form1.resx
+.vs/CheckListBox/DesignTimeBuild/.dtbcache.v2
+.vs/CheckListBox/v16/.suo
+lostarkicon_ig5_icon.ico
+Program.cs
+Properties/Settings.Designer.cs

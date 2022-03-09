@@ -72,8 +72,28 @@ namespace CheckListBox {
         bool cbx59 = Properties.Settings.Default.checkbox59;
         bool cbx60 = Properties.Settings.Default.checkbox60;
         bool cbx61 = Properties.Settings.Default.checkbox61;
-        bool cbx62 = Properties.Settings.Default.checkbox62;
-        bool cbx63 = Properties.Settings.Default.checkbox63;
+        //bool cbx62 = Properties.Settings.Default.checkbox62;
+        //bool cbx63 = Properties.Settings.Default.checkbox63;
+
+        int numb01 = Properties.Settings.Default.num1;
+        int numb02 = Properties.Settings.Default.num2;
+        int numb03 = Properties.Settings.Default.num3;
+        int numb04 = Properties.Settings.Default.num4;
+        int numb05 = Properties.Settings.Default.num5;
+        int numb06 = Properties.Settings.Default.num6;
+        int numb07 = Properties.Settings.Default.num7;
+        int numb08 = Properties.Settings.Default.num8;
+        int numb09 = Properties.Settings.Default.num9;
+        int numb10 = Properties.Settings.Default.num10;
+        int numb11 = Properties.Settings.Default.num11;
+        int numb12 = Properties.Settings.Default.num12;
+        int numb13 = Properties.Settings.Default.num13;
+        int numb14 = Properties.Settings.Default.num14;
+        int numb15 = Properties.Settings.Default.num15;
+        int numb16 = Properties.Settings.Default.num16;
+        int numb17 = Properties.Settings.Default.num17;
+        int numb18 = Properties.Settings.Default.num18;
+
 
         //Settings.settings에 있는 textbox01... 들의 string값 변수로 저장
         string tbx01 = Properties.Settings.Default.textbox01;
@@ -135,23 +155,42 @@ namespace CheckListBox {
             checkBox48.Checked = cbx48;
             checkBox49.Checked = cbx49;
             checkBox50.Checked = cbx50;
-            checkBox51.Checked = cbx51;
-            checkBox52.Checked = cbx52;
-            checkBox53.Checked = cbx53;
-            checkBox54.Checked = cbx54;
-            checkBox55.Checked = cbx55;
-            checkBox56.Checked = cbx56;
-            checkBox57.Checked = cbx57;
-            checkBox58.Checked = cbx58;
-            checkBox59.Checked = cbx59;
-            checkBox60.Checked = cbx60;
-            checkBox61.Checked = cbx61;
-            checkBox62.Checked = cbx62;
-            checkBox63.Checked = cbx63;
+            //checkBox51.Checked = cbx51;
+            //checkBox52.Checked = cbx52;
+            //checkBox53.Checked = cbx53;
+            //checkBox54.Checked = cbx54;
+            //checkBox55.Checked = cbx55;
+            //checkBox56.Checked = cbx56;
+            //checkBox57.Checked = cbx57;
+            //checkBox58.Checked = cbx58;
+            //checkBox59.Checked = cbx59;
+            //checkBox60.Checked = cbx60;
+            //checkBox61.Checked = cbx61;
+            //checkBox62.Checked = cbx62;
+            //checkBox63.Checked = cbx63;
+
+            numericUpDown1.Value = numb01;
+            numericUpDown2.Value = numb02;
+            numericUpDown3.Value = numb03;
+            numericUpDown4.Value = numb04;
+            numericUpDown5.Value = numb05;
+            numericUpDown6.Value = numb06;
+            numericUpDown7.Value = numb07;
+            numericUpDown8.Value = numb08;
+            numericUpDown9.Value = numb09;
+            numericUpDown10.Value = numb10;
+            numericUpDown11.Value = numb11;
+            numericUpDown12.Value = numb12;
+            numericUpDown13.Value = numb13;
+            numericUpDown14.Value = numb14;
+            numericUpDown15.Value = numb15;
+            numericUpDown16.Value = numb16;
+            numericUpDown17.Value = numb17;
+            numericUpDown18.Value = numb18;
 
 
             //Settings.settings에 저장된 textbox01... 들의 string값 가져오기
-            textBox1.Text = tbx01;
+            //textBox1.Text = tbx01;
             textBox2.Text = tbx02;
         }
 
@@ -183,12 +222,14 @@ namespace CheckListBox {
             checkBox25.Checked = false;
             checkBox26.Checked = false;
             checkBox27.Checked = false;
-        }
-
-        private void button2_Click(object sender, EventArgs e) {
             checkBox28.Checked = false;
             checkBox29.Checked = false;
             checkBox30.Checked = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e) {
+
+            
             checkBox31.Checked = false;
             checkBox32.Checked = false;
             checkBox33.Checked = false;
@@ -209,19 +250,19 @@ namespace CheckListBox {
             checkBox48.Checked = false;
             checkBox49.Checked = false;
             checkBox50.Checked = false;
-            checkBox51.Checked = false;
-            checkBox52.Checked = false;
-            checkBox53.Checked = false;
-            checkBox54.Checked = false;
-            checkBox55.Checked = false;
-            checkBox56.Checked = false;
-            checkBox57.Checked = false;
-            checkBox58.Checked = false;
-            checkBox59.Checked = false;
-            checkBox60.Checked = false;
-            checkBox61.Checked = false;
-            checkBox62.Checked = false;
-            checkBox63.Checked = false;
+            //checkBox51.Checked = false;
+            //checkBox52.Checked = false;
+            //checkBox53.Checked = false;
+            //checkBox54.Checked = false;
+            //checkBox55.Checked = false;
+            //checkBox56.Checked = false;
+            //checkBox57.Checked = false;
+            //checkBox58.Checked = false;
+            //checkBox59.Checked = false;
+            //checkBox60.Checked = false;
+            //checkBox61.Checked = false;
+            //checkBox62.Checked = false;
+            //checkBox63.Checked = false;
         }
         private void checkBox1_CheckedChanged(object sender, EventArgs e) {
             cbx01 = checkBox1.Checked;
@@ -473,7 +514,7 @@ namespace CheckListBox {
             Properties.Settings.Default.checkbox50 = cbx50;
             Properties.Settings.Default.Save();
         }
-        private void checkBox51_CheckedChanged(object sender, EventArgs e) {
+/*        private void checkBox51_CheckedChanged(object sender, EventArgs e) {
             cbx51 = checkBox51.Checked;
             Properties.Settings.Default.checkbox51 = cbx51;
             Properties.Settings.Default.Save();
@@ -509,7 +550,7 @@ namespace CheckListBox {
             Properties.Settings.Default.Save();
         }
         private void checkBox58_CheckedChanged(object sender, EventArgs e) {
-            cbx58 = checkBox56.Checked;
+            cbx58 = checkBox58.Checked;
             Properties.Settings.Default.checkbox58 = cbx58;
             Properties.Settings.Default.Save();
         }
@@ -537,17 +578,108 @@ namespace CheckListBox {
             cbx63 = checkBox63.Checked;
             Properties.Settings.Default.checkbox63 = cbx63;
             Properties.Settings.Default.Save();
-        }
+        }*/
 
-        private void textBox1_TextChanged(object sender, EventArgs e) {
-            tbx01 = textBox1.Text;
-            Properties.Settings.Default.textbox01 = tbx01;
-            Properties.Settings.Default.Save();
-        }
-
+        //------------------------------------------------------------------------
+        /*        private void textBox1_TextChanged(object sender, EventArgs e) {
+                    tbx01 = textBox1.Text;
+                    Properties.Settings.Default.textbox01 = tbx01;
+                    Properties.Settings.Default.Save();
+                }*/
         private void textBox2_TextChanged(object sender, EventArgs e) {
             tbx02 = textBox2.Text;
             Properties.Settings.Default.textbox02 = tbx02;
+            Properties.Settings.Default.Save();
+        }
+        //------------------------------------------------------------------------
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e) {
+            numb01 = (int)numericUpDown1.Value;
+            Properties.Settings.Default.num1 = numb01;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown2_ValueChanged(object sender, EventArgs e) {
+            numb02 = (int)numericUpDown2.Value;
+            Properties.Settings.Default.num2 = numb02;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown3_ValueChanged(object sender, EventArgs e) {
+            numb03 = (int)numericUpDown3.Value;
+            Properties.Settings.Default.num3 = numb03;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown4_ValueChanged(object sender, EventArgs e) {
+            numb04 = (int)numericUpDown4.Value;
+            Properties.Settings.Default.num4 = numb04;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown5_ValueChanged(object sender, EventArgs e) {
+            numb05 = (int)numericUpDown5.Value;
+            Properties.Settings.Default.num5 = numb05;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown6_ValueChanged(object sender, EventArgs e) {
+            numb06 = (int)numericUpDown6.Value;
+            Properties.Settings.Default.num6 = numb06;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown7_ValueChanged(object sender, EventArgs e) {
+            numb07 = (int)numericUpDown7.Value;
+            Properties.Settings.Default.num7 = numb07;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown8_ValueChanged(object sender, EventArgs e) {
+            numb08 = (int)numericUpDown8.Value;
+            Properties.Settings.Default.num8 = numb08;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown9_ValueChanged(object sender, EventArgs e) {
+            numb09 = (int)numericUpDown9.Value;
+            Properties.Settings.Default.num9 = numb09;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown10_ValueChanged(object sender, EventArgs e) {
+            numb10 = (int)numericUpDown10.Value;
+            Properties.Settings.Default.num10 = numb10;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown11_ValueChanged(object sender, EventArgs e) {
+            numb11 = (int)numericUpDown11.Value;
+            Properties.Settings.Default.num11 = numb11;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown12_ValueChanged(object sender, EventArgs e) {
+            numb12 = (int)numericUpDown12.Value;
+            Properties.Settings.Default.num12 = numb12;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown13_ValueChanged(object sender, EventArgs e) {
+            numb13 = (int)numericUpDown13.Value;
+            Properties.Settings.Default.num13 = numb13;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown14_ValueChanged(object sender, EventArgs e) {
+            numb14 = (int)numericUpDown14.Value;
+            Properties.Settings.Default.num14 = numb14;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown15_ValueChanged(object sender, EventArgs e) {
+            numb15 = (int)numericUpDown15.Value;
+            Properties.Settings.Default.num15 = numb15;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown16_ValueChanged(object sender, EventArgs e) {
+            numb16 = (int)numericUpDown16.Value;
+            Properties.Settings.Default.num16 = numb16;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown17_ValueChanged(object sender, EventArgs e) {
+            numb17 = (int)numericUpDown17.Value;
+            Properties.Settings.Default.num17 = numb17;
+            Properties.Settings.Default.Save();
+        }
+        private void numericUpDown18_ValueChanged(object sender, EventArgs e) {
+            numb18 = (int)numericUpDown18.Value;
+            Properties.Settings.Default.num18 = numb18;
             Properties.Settings.Default.Save();
         }
     }
