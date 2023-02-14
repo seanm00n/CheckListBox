@@ -13,5 +13,5 @@ C:\Users\SeanMoon\Desktop\Doc\Project\CheckListBox\obj\Debug\netcoreapp3.1\Check
 C:\Users\SeanMoon\Desktop\Doc\Project\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.pdb
 C:\Users\SeanMoon\Desktop\Doc\Project\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.genruntimeconfig.cache
 C:\Users\SeanMoon\Desktop\Doc\Project\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SeanMoon\Desktop\Doc\Project\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.csproj.AssemblyReference.cache
 C:\Users\SeanMoon\Desktop\Doc\Project\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.Properties.Resources.resources
+C:\Users\SeanMoon\Desktop\Doc\Project\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.csproj.AssemblyReference.cache
