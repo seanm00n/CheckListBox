@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dHoqFwfVsXVYTd0U7S95AgbGynIHeP9DbR/6fBsUe7V2i1z2v/fJMmylDmIAdQE/0x4UG8t5l5BBf40HLIVVMA==",
+  "dgSpecHash": "V2ghq3WzLUAw7hrB1EDqIN9roBa1fT/A3lAdXuOpIwtX3vpg3VrzIP9cYWF71MvX6jP8qeYd+NeUqiqfKPOqiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SeanMoon\\Desktop\\Doc\\Project\\CheckListBox\\CheckListBox.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\SeanMoon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
-    "C:\\Users\\SeanMoon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\SeanMoon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\SeanMoon\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\HOSEO\\Desktop\\DOC230906\\Project\\CheckListBox\\CheckListBox.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

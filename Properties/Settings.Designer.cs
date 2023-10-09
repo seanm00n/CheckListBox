@@ -12,7 +12,7 @@ namespace CheckListBox.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.10.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.7.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -26,108 +26,108 @@ namespace CheckListBox.Properties {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox01 {
+        public bool checkbox1 {
             get {
-                return ((bool)(this["checkbox01"]));
+                return ((bool)(this["checkbox1"]));
             }
             set {
-                this["checkbox01"] = value;
+                this["checkbox1"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox02 {
+        public bool checkbox2 {
             get {
-                return ((bool)(this["checkbox02"]));
+                return ((bool)(this["checkbox2"]));
             }
             set {
-                this["checkbox02"] = value;
+                this["checkbox2"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox03 {
+        public bool checkbox3 {
             get {
-                return ((bool)(this["checkbox03"]));
+                return ((bool)(this["checkbox3"]));
             }
             set {
-                this["checkbox03"] = value;
+                this["checkbox3"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox04 {
+        public bool checkbox4 {
             get {
-                return ((bool)(this["checkbox04"]));
+                return ((bool)(this["checkbox4"]));
             }
             set {
-                this["checkbox04"] = value;
+                this["checkbox4"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox05 {
+        public bool checkbox5 {
             get {
-                return ((bool)(this["checkbox05"]));
+                return ((bool)(this["checkbox5"]));
             }
             set {
-                this["checkbox05"] = value;
+                this["checkbox5"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox06 {
+        public bool checkbox6 {
             get {
-                return ((bool)(this["checkbox06"]));
+                return ((bool)(this["checkbox6"]));
             }
             set {
-                this["checkbox06"] = value;
+                this["checkbox6"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox07 {
+        public bool checkbox7 {
             get {
-                return ((bool)(this["checkbox07"]));
+                return ((bool)(this["checkbox7"]));
             }
             set {
-                this["checkbox07"] = value;
+                this["checkbox7"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox08 {
+        public bool checkbox8 {
             get {
-                return ((bool)(this["checkbox08"]));
+                return ((bool)(this["checkbox8"]));
             }
             set {
-                this["checkbox08"] = value;
+                this["checkbox8"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox09 {
+        public bool checkbox9 {
             get {
-                return ((bool)(this["checkbox09"]));
+                return ((bool)(this["checkbox9"]));
             }
             set {
-                this["checkbox09"] = value;
+                this["checkbox9"] = value;
             }
         }
         
@@ -313,330 +313,6 @@ namespace CheckListBox.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox25 {
-            get {
-                return ((bool)(this["checkbox25"]));
-            }
-            set {
-                this["checkbox25"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox26 {
-            get {
-                return ((bool)(this["checkbox26"]));
-            }
-            set {
-                this["checkbox26"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox27 {
-            get {
-                return ((bool)(this["checkbox27"]));
-            }
-            set {
-                this["checkbox27"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox28 {
-            get {
-                return ((bool)(this["checkbox28"]));
-            }
-            set {
-                this["checkbox28"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox29 {
-            get {
-                return ((bool)(this["checkbox29"]));
-            }
-            set {
-                this["checkbox29"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox30 {
-            get {
-                return ((bool)(this["checkbox30"]));
-            }
-            set {
-                this["checkbox30"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox31 {
-            get {
-                return ((bool)(this["checkbox31"]));
-            }
-            set {
-                this["checkbox31"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox32 {
-            get {
-                return ((bool)(this["checkbox32"]));
-            }
-            set {
-                this["checkbox32"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox33 {
-            get {
-                return ((bool)(this["checkbox33"]));
-            }
-            set {
-                this["checkbox33"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox34 {
-            get {
-                return ((bool)(this["checkbox34"]));
-            }
-            set {
-                this["checkbox34"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox35 {
-            get {
-                return ((bool)(this["checkbox35"]));
-            }
-            set {
-                this["checkbox35"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox36 {
-            get {
-                return ((bool)(this["checkbox36"]));
-            }
-            set {
-                this["checkbox36"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox37 {
-            get {
-                return ((bool)(this["checkbox37"]));
-            }
-            set {
-                this["checkbox37"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox38 {
-            get {
-                return ((bool)(this["checkbox38"]));
-            }
-            set {
-                this["checkbox38"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox39 {
-            get {
-                return ((bool)(this["checkbox39"]));
-            }
-            set {
-                this["checkbox39"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox40 {
-            get {
-                return ((bool)(this["checkbox40"]));
-            }
-            set {
-                this["checkbox40"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox41 {
-            get {
-                return ((bool)(this["checkbox41"]));
-            }
-            set {
-                this["checkbox41"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox42 {
-            get {
-                return ((bool)(this["checkbox42"]));
-            }
-            set {
-                this["checkbox42"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox43 {
-            get {
-                return ((bool)(this["checkbox43"]));
-            }
-            set {
-                this["checkbox43"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox44 {
-            get {
-                return ((bool)(this["checkbox44"]));
-            }
-            set {
-                this["checkbox44"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox45 {
-            get {
-                return ((bool)(this["checkbox45"]));
-            }
-            set {
-                this["checkbox45"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox46 {
-            get {
-                return ((bool)(this["checkbox46"]));
-            }
-            set {
-                this["checkbox46"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox47 {
-            get {
-                return ((bool)(this["checkbox47"]));
-            }
-            set {
-                this["checkbox47"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox48 {
-            get {
-                return ((bool)(this["checkbox48"]));
-            }
-            set {
-                this["checkbox48"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox49 {
-            get {
-                return ((bool)(this["checkbox49"]));
-            }
-            set {
-                this["checkbox49"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox50 {
-            get {
-                return ((bool)(this["checkbox50"]));
-            }
-            set {
-                this["checkbox50"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox51 {
-            get {
-                return ((bool)(this["checkbox51"]));
-            }
-            set {
-                this["checkbox51"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string textbox01 {
             get {
@@ -644,378 +320,6 @@ namespace CheckListBox.Properties {
             }
             set {
                 this["textbox01"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string textbox02 {
-            get {
-                return ((string)(this["textbox02"]));
-            }
-            set {
-                this["textbox02"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox52 {
-            get {
-                return ((bool)(this["checkbox52"]));
-            }
-            set {
-                this["checkbox52"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox53 {
-            get {
-                return ((bool)(this["checkbox53"]));
-            }
-            set {
-                this["checkbox53"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox54 {
-            get {
-                return ((bool)(this["checkbox54"]));
-            }
-            set {
-                this["checkbox54"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox55 {
-            get {
-                return ((bool)(this["checkbox55"]));
-            }
-            set {
-                this["checkbox55"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox56 {
-            get {
-                return ((bool)(this["checkbox56"]));
-            }
-            set {
-                this["checkbox56"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox57 {
-            get {
-                return ((bool)(this["checkbox57"]));
-            }
-            set {
-                this["checkbox57"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox58 {
-            get {
-                return ((bool)(this["checkbox58"]));
-            }
-            set {
-                this["checkbox58"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox59 {
-            get {
-                return ((bool)(this["checkbox59"]));
-            }
-            set {
-                this["checkbox59"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox60 {
-            get {
-                return ((bool)(this["checkbox60"]));
-            }
-            set {
-                this["checkbox60"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox61 {
-            get {
-                return ((bool)(this["checkbox61"]));
-            }
-            set {
-                this["checkbox61"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox62 {
-            get {
-                return ((bool)(this["checkbox62"]));
-            }
-            set {
-                this["checkbox62"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
-        public bool checkbox63 {
-            get {
-                return ((bool)(this["checkbox63"]));
-            }
-            set {
-                this["checkbox63"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num1 {
-            get {
-                return ((int)(this["num1"]));
-            }
-            set {
-                this["num1"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num2 {
-            get {
-                return ((int)(this["num2"]));
-            }
-            set {
-                this["num2"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num3 {
-            get {
-                return ((int)(this["num3"]));
-            }
-            set {
-                this["num3"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num4 {
-            get {
-                return ((int)(this["num4"]));
-            }
-            set {
-                this["num4"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num5 {
-            get {
-                return ((int)(this["num5"]));
-            }
-            set {
-                this["num5"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num6 {
-            get {
-                return ((int)(this["num6"]));
-            }
-            set {
-                this["num6"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num7 {
-            get {
-                return ((int)(this["num7"]));
-            }
-            set {
-                this["num7"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num8 {
-            get {
-                return ((int)(this["num8"]));
-            }
-            set {
-                this["num8"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num9 {
-            get {
-                return ((int)(this["num9"]));
-            }
-            set {
-                this["num9"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num10 {
-            get {
-                return ((int)(this["num10"]));
-            }
-            set {
-                this["num10"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num11 {
-            get {
-                return ((int)(this["num11"]));
-            }
-            set {
-                this["num11"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num12 {
-            get {
-                return ((int)(this["num12"]));
-            }
-            set {
-                this["num12"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num13 {
-            get {
-                return ((int)(this["num13"]));
-            }
-            set {
-                this["num13"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num14 {
-            get {
-                return ((int)(this["num14"]));
-            }
-            set {
-                this["num14"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num15 {
-            get {
-                return ((int)(this["num15"]));
-            }
-            set {
-                this["num15"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num16 {
-            get {
-                return ((int)(this["num16"]));
-            }
-            set {
-                this["num16"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num17 {
-            get {
-                return ((int)(this["num17"]));
-            }
-            set {
-                this["num17"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int num18 {
-            get {
-                return ((int)(this["num18"]));
-            }
-            set {
-                this["num18"] = value;
             }
         }
     }
