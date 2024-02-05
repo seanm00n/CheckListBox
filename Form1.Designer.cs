@@ -586,6 +586,7 @@ namespace CheckListBox
             label6.Name = "label6";
             label6.Size = new System.Drawing.Size(34, 17);
             label6.TabIndex = 97;
+            label6.Tag = "6";
             label6.Text = "캐릭";
             label6.DoubleClick += label_Click;
             // 

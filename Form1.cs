@@ -108,6 +108,7 @@ namespace CheckListBox
                 {
                     dynamicTextBox = new TextBox();
                     dynamicTextBox.Width = 40;
+                    dynamicTextBox.Text = self.Text;
                     dynamicTextBox.Location = new System.Drawing.Point(self.Location.X, self.Location.Y);
                     this.Controls.Add(dynamicTextBox);
                     dynamicTextBox.BringToFront();
